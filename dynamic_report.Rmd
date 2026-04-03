@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
 
 ## My report tracks the altitude, airline and destination/origin of flights over auckland.
 
-```{r}
+```{r, fig.width=10, fig.height=8}
 library(tidyverse)
 
 #reading in the data
