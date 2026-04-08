@@ -2,12 +2,12 @@
 
 ## Module 1
 
-* This is my repo for STATS 220. *
+*This is my repo for STATS 220.*
 
 1. This is what I'm doing for project 1.
 2. I need an ordered list.
 
-** A little about me: **
+**A little about me:**
 
 * I am undertaking a degree in computer science.
 * I am taking STATS 220 because it appealed to me coding wise.
